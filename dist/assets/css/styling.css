@@ -1,0 +1,142 @@
+body{
+
+}
+/*jtron_1*/
+.jtron_1{
+	height: 700px;
+}
+.home_contents{
+	padding-top: 200px;
+}
+.im_1{
+	
+}
+.im_txt_1{
+	
+}
+.im_txt_2{
+	
+}
+
+/*row 2*/
+.row_2{
+	height:700px;
+}
+
+.about_contents{
+	padding-top: 200px;
+}
+
+.row_2_div_1{
+	margin-left: 60px;
+	margin-top: 80px;
+	color: grey;
+	font-family: 'Nunito', sans-serif;
+	font-size:20px ;
+}
+
+/* jtron_2*/
+
+.jtron_2{
+	margin-top: 40px;
+}
+.progress{
+	margin-top: 22px !important;
+}
+.skill_set{
+	margin-left: 15px;
+	border-bottom: unset !important;
+}
+
+
+
+/* row_4 */
+.row_4{
+	height: 700px;
+}
+.project_contents{
+	padding-top: 200px;
+}
+
+.row_4 .my_projects{
+	border-bottom: unset !important;
+}
+.row_4 a{
+	text-decoration: none;
+	color: #9e9e9e;
+}
+
+/* FOOTER PART */
+
+
+.footer-bs ul{
+	list-style-type:none;
+}
+.footer-bs .row{
+	padding:60px 0px 40px 0px;
+}
+.footer-bs{
+	background-color:#313c40;
+	color: #cecece;
+	margin-top:300px;
+}
+.footer-bs a{
+	color: #7f89a0;
+}
+.footer-brand{
+	padding-left:25px;
+}
+
+.footer_txt{
+	color: grey;
+	font-family: 'Nunito', sans-serif;
+}
+
+
+/* BUTTONS */
+
+.btn-circle {
+    width: 30px;
+    height: 30px;
+    padding: 6px 0px;
+    border-radius: 15px;
+    text-align: center;
+    font-size: 12px;
+    line-height: 1.42857;
+}
+
+
+/* MEDIA QUERIES */
+ 	/* Horizontal all times Extra small devices Mobile view  */
+
+	@media (max-width: 750px) {
+		.row_2_div_1{
+			padding-top : 10px;
+		}
+		.footer-bs{
+			height: 700px;
+		}
+		.footer_txt{
+			font-size: 105%;
+		}
+		.footer-ns a{
+			margin-left: 56px;
+		}
+
+	/* Collapsed to start small devices Tablet view  */
+
+	@media (min-width: 750px) and (max-width: 970px) { 
+
+	}
+
+	/* Collapsed to start Medium devices Desktop view  */
+
+	@media (min-width: 970px) and (max-width: 11170px) { 
+
+	}
+
+	/* Collapsed to start Large screens view  */
+
+	@media (min-width: 1170px) { 
+
+	}

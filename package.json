@@ -1,0 +1,22 @@
+{
+  "name": "jaiportfolio",
+  "version": "1.0.0",
+  "description": "Contains programming files of my portfolio site.",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jaiendiran/jaiportfolio.git"
+  },
+  "author": "Jaiendiran",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jaiendiran/jaiportfolio/issues"
+  },
+  "homepage": "https://github.com/Jaiendiran/jaiportfolio#readme",
+  "dependencies": {
+    "gh-pages": "^2.0.1"
+  }
+}
