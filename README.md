@@ -1,2 +1,2 @@
 # jaiportfolio
-Contains programming files of my portfolio site.
+Contains programmed files of my portfolio site.
